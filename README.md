@@ -1,8 +1,8 @@
 Custom Rails Generators
 =======================
 
-Install
--------
+Installation
+------------
 
 Add the gem to your `Gemfile`:
 ```ruby
