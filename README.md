@@ -11,6 +11,13 @@ group :development do
 end
 ```
 
+Usage
+-----
+
+These custom generators should be seen as an inviation to scaffold as much as you can. You don't need to do anything special to use them, just `rails g scaffold` as usual and you'll get more with no more typing.
+
+The generators that I find the most valuable are the RSpec ones. If you're using Factory Girl, some RSpec examples alternatives which use some great Factory Girl features will be generated for you to decide if you to take advantage of them.
+
 License
 -------
 
