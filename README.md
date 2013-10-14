@@ -26,6 +26,13 @@ Development
 
 The gem testig is ensured through an embedded example application, please refer to its [README](https://github.com/gonzalo-bulnes/custom-rails-generators/tree/master/example/README.md) for further information.
 
+Credits
+-------
+
+Part of this gem was crafted during my 10% freely-focused work time at [Acid Labs][acidlabs]. Thanks for that!
+
+  [acidlabs]: https://github.com/acidlabs
+
 License
 -------
 
