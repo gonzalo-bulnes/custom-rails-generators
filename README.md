@@ -1,6 +1,9 @@
 Custom Rails Generators
 =======================
 
+[![Build Status](https://api.travis-ci.org/gonzalo-bulnes/custom-rails-generators.png)](https://travis-ci.org/gonzalo-bulnes/custom-rails-generators)
+[![Code Climate](https://codeclimate.com/github/gonzalo-bulnes/custom-rails-generators.png)](https://codeclimate.com/github/gonzalo-bulnes/custom-rails-generators)
+
 Installation
 ------------
 
