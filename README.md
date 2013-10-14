@@ -18,6 +18,11 @@ These custom generators should be seen as an inviation to scaffold as much as yo
 
 The generators that I find the most valuable are the RSpec ones. If you're using Factory Girl, some RSpec examples alternatives which use some great Factory Girl features will be generated for you to decide if you to take advantage of them.
 
+Development
+-----------
+
+The gem testig is ensured through an embedded example application, please refer to its [README](https://github.com/gonzalo-bulnes/custom-rails-generators/tree/master/example/README.md) for further information.
+
 License
 -------
 
