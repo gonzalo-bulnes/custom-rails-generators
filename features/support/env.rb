@@ -5,5 +5,5 @@ Before do
   # See https://github.com/cucumber/aruba for details.
   @dirs = ["example"]
   # Let the time to Rails to launch
-  @aruba_timeout_seconds = 5
+  @aruba_timeout_seconds = 25
 end

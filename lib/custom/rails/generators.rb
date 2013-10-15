@@ -1,9 +1,12 @@
 require "custom/rails/generators/version"
 
+autoload :ModelSpec, 'templates/rspec/model/model_spec'
+
 module Custom
   module Rails
     module Generators
-      # Your code goes here...
+      class Engine < ::Rails::Engine
+      end
     end
   end
 end
